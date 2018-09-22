@@ -24,5 +24,10 @@ public class HelloWorld
                 //^
 //3 errors
 
+//These (3) errors are created because their needs to be a closing of the system.out on line "_System.out.println("Hello,_" and...//
+//...also at the opening of the string "_World");_".
+//An example of this correction would be my file "HelloWorldfix.java"				   
+
+
 	}//End main//
 }//Close Class//
